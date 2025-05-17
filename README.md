@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Merhaba, ben Buğsenur Gençer
 
-<!--
-**bugsenurgencer/bugsenurgencer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bilgisayar Programcılığı 1. sınıf öğrencisiyim. Yazılım geliştirme, web tasarımı ve teknolojiyle ilgileniyorum.  
+🎥 YouTube kanalımda yazılım öğrenme yolculuğumu, okul projelerimi ve kod ödevlerimi paylaşıyorum. Kanalıma göz atabilirsiniz:([https://youtube.com/kanalinkin](https://youtube.com/@bugsenurgencer?si=bd1K7rmK61pvBdMO))
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Kullandığım Teknolojiler:
+- HTML, CSS, JavaScript
+- C#, Java, ASP.NET
+- SQL, Veritabanı Yönetimi
+- Visual Studio, VS Code
+
+---
+
+## 📫 Bana Ulaşabilirsiniz:
+-  E-posta: bugsenurgencer@gmail.com
+-  YouTube: https://youtube.com/@bugsenurgencer?si=bd1K7rmK61pvBdMO
+
