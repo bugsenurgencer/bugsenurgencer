@@ -13,6 +13,13 @@
 
 ---
 
+## 🧩 Projelerim:
+| Proje Adı | Açıklama | Link |
+|----------|----------|------|
+| 🌐 Giyim Web Sitesi | HTML ve CSS ile yapılmış web sitesi | [GitHub'da Görüntüle](https://bugsenurgencer.github.io/giyim-websitesi) |
+
+---
+
 ## 📫 Bana Ulaşabilirsiniz:
 -  E-posta: bugsenurgencer@gmail.com
 -  YouTube: https://youtube.com/@bugsenurgencer?si=bd1K7rmK61pvBdMO
