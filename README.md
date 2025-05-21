@@ -17,6 +17,7 @@
 | Proje Adı | Açıklama | Link |
 |----------|----------|------|
 | 🌐 Giyim Web Sitesi | HTML ve CSS ile yapılmış web sitesi | [GitHub'da Görüntüle](https://bugsenurgencer.github.io/giyim-websitesi) |
+| 🌐 Giyim Masaüstü Uygulama | Java ile yapılmış masaüstü uygulaması |
 
 ---
 
