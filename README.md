@@ -1,7 +1,7 @@
 # 👋 Merhaba, ben Buğsenur Gençer
 
 🎓 Bilgisayar Programcılığı 2. sınıf öğrencisiyim. Yazılım geliştirme, web tasarımı ve teknolojiyle ilgileniyorum.  
-🎥 YouTube kanalımda yazılım öğrenme yolculuğumu, okul projelerimi ve kod ödevlerimi paylaşıyorum. Kanalıma göz atabilirsiniz:([https://youtube.com/kanalinkin](https://youtube.com/@bugsenurgencer?si=bd1K7rmK61pvBdMO))
+🎥 YouTube kanalımda yazılım öğrenme yolculuğumu, okul projelerimi ve kod ödevlerimi paylaşıyorum. Kanalıma göz atabilirsiniz. ([https://youtube.com/kanalinkin](https://youtube.com/@bugsenurgencer?si=bd1K7rmK61pvBdMO))
 
 ---
 
